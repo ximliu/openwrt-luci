@@ -195,6 +195,10 @@ msgstr "不跟踪出站"
 msgid "Drop invalid packets"
 msgstr "丢弃无效数据包"
 
+#: applications/luci-app-firewall/htdocs/luci-static/resources/view/firewall/zones.js:50
+msgid "Enable FullCone-NAT"
+msgstr "启用 FullCone-NAT"
+
 #: applications/luci-app-firewall/htdocs/luci-static/resources/view/firewall/forwards.js:149
 #: applications/luci-app-firewall/htdocs/luci-static/resources/view/firewall/rules.js:221
 msgid "Enable"
