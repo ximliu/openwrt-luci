@@ -2729,6 +2729,7 @@ return L.Class.extend({
 		},
 
 		apply: function(checked) {
+			checked = false;
 			this.displayStatus('notice spinning',
 				E('p', _('Starting configuration apply…')));
 
